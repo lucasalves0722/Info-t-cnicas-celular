@@ -1,3 +1,4 @@
+package Projeto.Lucas.Codigo;
 public class App {
     public static void main(String[] args) throws Exception {
         // Iphone 12, tela de 6.1", 256gb
